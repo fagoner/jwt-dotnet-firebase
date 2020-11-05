@@ -89,3 +89,6 @@ curl --location -k  --request GET 'https://localhost:5001/api/tokens/protected' 
 ```
 dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 3.1.9
 ```
+
+#### Source
+- [blog-bertrand-thomasasp-net-core-3-0-and-firebase](https://blog-bertrand-thomas.devpro.fr/2019/10/24/api-authentication-with-asp-net-core-3-0-and-firebase/)
